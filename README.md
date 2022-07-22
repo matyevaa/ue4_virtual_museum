@@ -4,6 +4,10 @@ For people of all ages and backgrounds who are interested in exploring things, t
 
 Unlike most of the VR applications that involve solving logical problems, overcoming challenges, fighting, or shooting that may not be suitable for everyone, the museum would offer the audience to peacefully explore the variety of one-of-a-kind art compositions in a user-friendly, static VR environment suitable for people of all ages and backgrounds.
 
+## All files are available in Google Drive:
+
+https://drive.google.com/drive/folders/13tdU1ocXr4zrR8Axup48n5_nczCKn5RE?usp=sharing
+
 ## Topic Selection
 
 Contemporary art is a broad genre, thus the project was narrowed to focus mostly on contemporary surrealism. 
