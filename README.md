@@ -4,7 +4,34 @@ For people of all ages and backgrounds who are interested in exploring things, t
 
 Unlike most of the VR applications that involve solving logical problems, overcoming challenges, fighting, or shooting that may not be suitable for everyone, the museum would offer the audience to peacefully explore the variety of one-of-a-kind art compositions in a user-friendly, static VR environment suitable for people of all ages and backgrounds.
 
-# UE4 Blueprints Documentation
+## Topic Selection
+
+Contemporary art is a broad genre, thus the project was narrowed to focus mostly on contemporary surrealism. 
+
+With the creativity freedom in styling and setting up the props, the museum got an emphasis on magic and strange beauty in the unexpected things.
+A variety of random stuff was use to create bright, unique, and creative compositions that can surprise everyone and make our museum special, interesting, and worth exploring.
+
+The props were set up around the museum in individual art compositions. Users would be able not just to explore the art visually, but also experience interactivity by pressing buttons and seeing how art compositions change in unique ways.
+
+## Plan
+
+![image](https://user-images.githubusercontent.com/59642740/180339110-ef320864-3f36-4516-9e61-a7bc494d1cd8.png)
+
+## Research
+
+![research](https://user-images.githubusercontent.com/59642740/180339671-da0a86ad-fa34-463c-99c7-7e8564dc5976.png)
+
+## Art Compositions
+![art](https://user-images.githubusercontent.com/59642740/180339686-4037b5f1-5053-4585-a9ae-65e6c4d9a540.png)
+![art 2](https://user-images.githubusercontent.com/59642740/180339689-5ee14dbb-efbe-4e65-88c3-eac9c2204903.png)
+
+## Rooms
+
+![entranc](https://user-images.githubusercontent.com/59642740/180339696-a49037dd-b820-40b9-96a5-d379f18d0bb8.png)
+![display](https://user-images.githubusercontent.com/59642740/180339703-99cf4878-792e-4e7d-b9a1-fd978e0e8749.png)
+![sculture](https://user-images.githubusercontent.com/59642740/180339709-3b05471a-f82f-483e-a9bf-6e1ccdfe7f0c.png)
+
+## UE4 Blueprints Documentation
 
 The main blueprints that were used for the creation of the museum project include the user's interaction with the button. To increase the user’s experience within the small development time given, the button’s blueprint was repurposed into multiple different interactions. A single algorithm was implemented for three buttons that can execute the following operations after being toggled (see Figure 1), depending on the button’s location:
 
